@@ -10,11 +10,17 @@ Merhaba👋 Bu proje, Kaggle'daki [Digit Recognizer Dataset](https://www.kaggle.
 ## Projenin Kapsamı
 - **Derin Öğrenme**: Convolutional Neural Networks (CNN) ile el yazısı rakamların sınıflandırılması.  
 - **Performans Analizi**: Doğruluk (accuracy) ve kayıp (loss) grafiklerinin yanı sıra confusion matrix görselleştirmeleri.
+  
   ![7](https://github.com/user-attachments/assets/d4bba2ad-40f3-4433-aa96-065c41f1d1ef)
+  
   ![1](https://github.com/user-attachments/assets/9722a56c-aa19-43d9-a2a8-ccfd88b24502)
+  
   ![2](https://github.com/user-attachments/assets/f5aecdee-f25c-4e00-9b48-d6111b513284)
+  
 - **Özel Resimlerle Test**: Modelin genelleştirme kabiliyetini analiz etmek için özel çizilmiş resimlerin kullanılması.
-- ![5](https://github.com/user-attachments/assets/73440123-9081-4c9b-9a32-94c001e435f5)
+  
+  ![5](https://github.com/user-attachments/assets/73440123-9081-4c9b-9a32-94c001e435f5)
+  
   ![4](https://github.com/user-attachments/assets/801a3d0e-be0a-40ed-a137-6d6992c70c63)
 
   

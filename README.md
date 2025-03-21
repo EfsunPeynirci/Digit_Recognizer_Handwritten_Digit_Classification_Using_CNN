@@ -24,7 +24,7 @@ Hello👋 This project was developed to classify handwritten digits using the Di
 
 ## Project Results
 
-### 1. Eğitim Süreci Sonuçları
+### 1. Training Process Results
 The accuracy and loss values during the model's training process, summarized for each epoch, are shown in the table below. Throughout the training, the model's accuracy continuously improved, reaching a **99.00% accuracy rate** by the 5th epoch. The validation accuracy reached **98.82%.** The loss values also decreased steadily, demonstrating a successful learning process. The following visual shows the detailed training and validation results for each epoch:
 
 ![7](https://github.com/user-attachments/assets/4cbe210a-de84-4f37-9585-a908f1a1edbb)

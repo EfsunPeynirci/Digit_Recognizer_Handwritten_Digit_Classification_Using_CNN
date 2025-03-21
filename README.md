@@ -35,11 +35,11 @@ Graphs of the accuracy and loss values obtained during the training and validati
 ![1](https://github.com/user-attachments/assets/016a8478-57c0-4a66-896a-90dbabeccf2d)
 
 ### 3. Validation Confusion Matrix
-Doğrulama veri setinde modelin sınıflandırma başarısını gösteren matriks:
+Matrix showing the model's classification success on the validation dataset:
 
 ![2](https://github.com/user-attachments/assets/e0359142-8ef9-439b-a4e2-3e8a4bb37e5c)
 
-### 4. Özel Resimlerden Tahmin Örnekleri
+### 4. Prediction Examples from Custom Images
 Matrix showing the model's classification success on the validation dataset:
 - Prediction: 7 (Actual: 7)
 
